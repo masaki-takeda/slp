@@ -21,4 +21,4 @@ Sleep_Staging_by_CRNN_last_3min:
 This dataset provides sleep stage classifications for the final 3 minutes of sleep for each participant. Sleep stages were estimated at 30-second intervals, resulting in six estimates per participant.
 
 Pupil_size_data:
-This dataset contains pupil size measurements collected during the DST. Two conditions are included: pre-sleep and post-awakening. Rows correspond to participants, and columns correspond to trial numbers.
+This dataset contains pupil size measurements collected during the DST. Two conditions are included: pre-sleep and post-awakening. Rows correspond to participants, and columns correspond to trial numbers. (Following the review process, the preprocessing method was updated, and the data were revised accordingly.)
