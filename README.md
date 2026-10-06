@@ -22,3 +22,6 @@ This dataset provides sleep stage classifications for the final 3 minutes of sle
 
 Pupil_size_data:
 This dataset contains pupil size measurements collected during the DST. Two conditions are included: pre-sleep and post-awakening. Rows correspond to participants, and columns correspond to trial numbers. (Following the review process, the preprocessing method was updated, and the data were revised accordingly.)
+
+ERSP_dataset:
+This dataset contains event-related spectral perturbation (ERSP) data derived from the recorded EEG data.
