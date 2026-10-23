@@ -6,7 +6,7 @@ library(emmeans)
 library(ggplot2)
 
 ## PATH
-path_data = "~/LMM/Data_5"
+path_data = "~/LMM/Data_4"
 setwd(path_data)
 
 ## DATA READ
