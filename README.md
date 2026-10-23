@@ -8,7 +8,7 @@ Japan.
 2 Research Center for Brain Communication, Kochi University of Technology, Kami, Kochi
 
 [Data and Code availability]
-Figure 2 can be reproduced using supplementary Data 1 and Code 1. Figure 3 can be reproduced using supplementary Data 2 and Code 2. Figure 4 (including Figure S5 and S6) can be reproduced using supplementary Data 3 and Code 3. Figure 5 can be reproduced using supplementary Data 1 and Data 3 and Code 4. Figure 6 can be reproduced using supplementary Data 5 and Code 5.
+Figure 2 can be reproduced using supplementary Data 1 and Code 1. Figure 3 can be reproduced using supplementary Data 2 and Code 2. Figure 4 (including Figure S5 and S6) can be reproduced using supplementary Data 3 and Code 3. Figure 5 can be reproduced using supplementary Data 1, Data 3, and Code 4. Figure 6 can be reproduced using supplementary Data 4 and Code 5.
 
 [Details]
 Behavior_data:
