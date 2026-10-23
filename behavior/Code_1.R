@@ -2,7 +2,7 @@ library(dplyr)
 
 # ---- Read the data ----
 dat <- read.csv(
-  "Behavior_data.csv",
+  "Data_1.csv",
   na.strings = c("NA", ""),
   stringsAsFactors = FALSE,
   strip.white = TRUE
