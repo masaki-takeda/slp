@@ -125,9 +125,9 @@ DATASET_DIR = SCRIPT_DIR.parent
 
 # Figure source data directories
 SOURCE_DATA_DIRS = {
-    "full_trial": DATASET_DIR / "Figure_4_source_data",
-    "encoding": DATASET_DIR / "Figure_S5_source_data",
-    "retrieval_fixed8": DATASET_DIR / "Figure_S6_source_data",
+    "full_trial": DATASET_DIR / "Data_3" / "Figure_4_source_data",
+    "encoding": DATASET_DIR / "Data_3" / "Figure_S5_source_data",
+    "retrieval_fixed8": DATASET_DIR / "Data_3" / "Figure_S6_source_data",
 }
 
 # Shared frequency vector
