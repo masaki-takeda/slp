@@ -64,7 +64,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 DATASET_DIR = SCRIPT_DIR.parent
 
 # Source data for Figure 3
-SOURCE_DATA_DIR = DATASET_DIR / "Figure_3_source_data"
+SOURCE_DATA_DIR = DATASET_DIR / "Data_2"
 
 # Input files
 PRE_DIR = SOURCE_DATA_DIR / "pre_mean"
